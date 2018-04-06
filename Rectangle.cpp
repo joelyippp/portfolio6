@@ -1,4 +1,4 @@
-#include<iostream>
+s#include#include<iostream>
 
 using namespace std;
 
@@ -26,4 +26,5 @@ int main()
 
 	return 0;
 
+	SYSTEM("PAUSE");
 }
