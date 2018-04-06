@@ -18,7 +18,7 @@ int main()
 
 	perimeter = 2 * (height + width);
 
-	cout << " Perimeter of rectangle are = " << perimeter << endl;
+	cout << " Perimeter of rectangle is = " << perimeter << endl;
 
 	return 0;
 
