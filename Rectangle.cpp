@@ -8,7 +8,7 @@ int main()
 
 	int width, height, perimeter ;
 
-	cout << "Enter  Width of Rectangle = ";
+	cout << "Width of Rectangle = ";
 
 	cin >> width;
 
