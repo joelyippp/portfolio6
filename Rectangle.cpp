@@ -6,7 +6,7 @@ int main()
 
 {
 
-	int width, height, area, perimeter;
+	int width, height, perimeter ;
 
 	cout << "Enter  Width of Rectangle = ";
 
@@ -15,10 +15,6 @@ int main()
 	cout << "Enter  Height of Rectangle = ";
 
 	cin >> height;
-
-	area = height*width;
-
-	cout << "Area of Rectangle =" << area << endl;
 
 	perimeter = 2 * (height + width);
 
