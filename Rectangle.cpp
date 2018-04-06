@@ -8,11 +8,7 @@ int main()
 
 	int width, height, perimeter ;
 
-<<<<<<< HEAD
-	cout << "The width of rectangle = ";
-=======
-	cout << "Width of Rectangle = ";
->>>>>>> 92a3f79ee0163414ad90dd6faf23f46d39c65705
+	cout << "Enter width of Rectangle = ";
 
 	cin >> width;
 
